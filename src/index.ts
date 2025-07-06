@@ -1,3 +1,4 @@
-import { bob } from "./example/names";
+import { testFastDeepEquals } from "./example/fastDeepEqualsDemo";
 
-console.log(bob + " 5");
+console.log("v6");
+testFastDeepEquals();
